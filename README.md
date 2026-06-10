@@ -7,7 +7,7 @@ Financial Market Sentiment Prediction from Tweets (Bearish/Bullish/Neutral)
 | Name | Student ID |
 |------|------------|
 | Ana Macedo | 20250405 |
-| Carlota Pires | [ID] |
+| Carlota Pires | 20250383 |
 | Francisca Calçoa | [ID] |
 | Francisca Martins | [ID] |
 
